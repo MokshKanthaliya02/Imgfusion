@@ -2,3 +2,4 @@ face_detected/
 project/
 yolov8x-oiv7.pt
 yolov8x.pt
+data/images
